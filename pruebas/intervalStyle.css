@@ -1,0 +1,20 @@
+*{  margin: 0;
+    padding: 0;
+    text-decoration: none;
+    /* Incluir Siempre como inicialización*/
+    box-sizing: border-box;
+}
+
+
+body {
+    width: calc(80% - 1rem);
+    margin: 0 auto;
+    background-color: rgba(100%, 100%, 100%, 0.7);
+    padding: 3rem;
+}
+div#texto {
+    border: 1px solid black;
+    width: 70%;
+    margin: 0 auto;
+    height: 30em;
+}
