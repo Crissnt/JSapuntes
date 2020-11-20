@@ -1,4 +1,4 @@
-let lista = ['b', 3, 'a', 123];
+let lista = ['b', 3, null, 123];
 
 /* Devuelve un array cuyos elementos son únicamente
 los elementos numéricos del array recibido */
